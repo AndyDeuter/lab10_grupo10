@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccessLayer", "DataAccessLayer", "{9F26B83A-8018-4CC8-AAC6-27C8241EEDC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationLayer", "PresentationLayer", "{2B37EBF1-B3DB-4432-BD78-804301C00088}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLayer", "BusinessLayer", "{FE553671-2024-4772-83B5-C1FB613DD275}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommonLayer", "CommonLayer", "{0AFE63B1-547F-452E-A26D-4DF37EFD1092}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{B2AE4C88-83E8-4669-A9B7-96DC778607A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DbConnection", "DbConnection", "{B81583E4-B869-46C5-A29B-8AF689D0267D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainForm", "MainForm\MainForm.csproj", "{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B2AE4C88-83E8-4669-A9B7-96DC778607A2} = {2B37EBF1-B3DB-4432-BD78-804301C00088}
+		{B81583E4-B869-46C5-A29B-8AF689D0267D} = {9F26B83A-8018-4CC8-AAC6-27C8241EEDC9}
+		{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8} = {B2AE4C88-83E8-4669-A9B7-96DC778607A2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58AC3E6D-8C05-4FF9-8DF1-67068EC67E36}
+	EndGlobalSection
+EndGlobal
