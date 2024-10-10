@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180A49B7-ED9C-4B42-83D6-E0655CAA1B4B}|ConectionDB\\ConectionDB.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\conectiondb\\dbconeccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180A49B7-ED9C-4B42-83D6-E0655CAA1B4B}|ConectionDB\\ConectionDB.csproj|solutionrelative:conectiondb\\dbconeccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\dataaccesslibrary\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|solutionrelative:dataaccesslibrary\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\dataaccesslibrary\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|solutionrelative:dataaccesslibrary\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\dataaccesslibrary\\productorepocitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|solutionrelative:dataaccesslibrary\\productorepocitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +62,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "DBConeccion.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\DBConeccion.cs",
+              "RelativeDocumentMoniker": "ConectionDB\\DBConeccion.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\DBConeccion.cs",
+              "RelativeToolTip": "ConectionDB\\DBConeccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:24:43.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "dataAccessLibrary\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\PedidoRepository.cs",
+              "RelativeToolTip": "dataAccessLibrary\\PedidoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:18:59.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "dataAccessLibrary\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\CategoriaRepository.cs",
+              "RelativeToolTip": "dataAccessLibrary\\CategoriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:16:37.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoRepocitory.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\ProductoRepocitory.cs",
+              "RelativeDocumentMoniker": "dataAccessLibrary\\ProductoRepocitory.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\ProductoRepocitory.cs",
+              "RelativeToolTip": "dataAccessLibrary\\ProductoRepocitory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:14:35.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PedidoService.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\PedidoService.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\PedidoService.cs",
@@ -63,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "categoriaService.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\categoriaService.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\categoriaService.cs",
@@ -76,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ProductoService.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\ProductoService.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\ProductoService.cs",
@@ -84,12 +152,11 @@
               "RelativeToolTip": "buisnesLayerDml\\ProductoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:54:00.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T15:54:00.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm\\MainForm.cs",
@@ -102,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Pedido.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\Pedido.cs",
@@ -114,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Categoria.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\Categoria.cs",
@@ -126,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Producto.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\Producto.cs",
@@ -138,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Validaciones.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\Validaciones.cs",
               "RelativeDocumentMoniker": "Validaciones.cs",
@@ -150,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MainForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm\\MainForm.cs",
