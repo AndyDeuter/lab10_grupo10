@@ -147,6 +147,7 @@
             dataGridViewProductos.RowHeadersWidth = 51;
             dataGridViewProductos.Size = new Size(388, 149);
             dataGridViewProductos.TabIndex = 11;
+            dataGridViewProductos.CellContentClick += dataGridViewProductos_CellContentClick;
             // 
             // btnMostrar
             // 

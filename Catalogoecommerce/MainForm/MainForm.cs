@@ -60,8 +60,8 @@ namespace MainForm
                 try
                 {
                     productoService.AgregarProducto(nuevoProducto);
-                    MostrarProductos(); // Refrescar la lista de productos.
-                    LimpiarCampos(); // Limpiar campos después de agregar.
+                    MostrarProductos(); 
+                    LimpiarCampos(); 
                 }
                 catch (Exception ex)
                 {
@@ -76,10 +76,8 @@ namespace MainForm
             {
                 var idSeleccionado =
                     (int)dataGridViewProductos.CurrentRow.Cells["ProductoID"].Value;
-
                 try
                 {
-                    // Llama al servicio para eliminar el registro seleccionado.
                     productoService.EliminarProducto(idSeleccionado);
                     MostrarProductos();
                     LimpiarCampos();
@@ -119,7 +117,7 @@ namespace MainForm
                 return false;
             }
 
-            return true; // Todos los campos son válidos
+            return true; 
         }
 
         private void LimpiarCampos()
@@ -129,6 +127,11 @@ namespace MainForm
             txtPrecio.Clear();
             txtCantidad.Clear();
             comboBoxCategorias.SelectedIndex = -1;
+        }
+
+        private void dataGridViewProductos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
