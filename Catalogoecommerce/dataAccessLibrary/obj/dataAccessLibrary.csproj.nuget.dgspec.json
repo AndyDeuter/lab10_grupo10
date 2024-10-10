@@ -4,14 +4,14 @@
     "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\dataAccessLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\buisnesLayerDml.csproj": {
+    "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\ConectionDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\buisnesLayerDml.csproj",
-        "projectName": "buisnesLayerDml",
-        "projectPath": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\buisnesLayerDml.csproj",
+        "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\ConectionDB.csproj",
+        "projectName": "ConectionDB",
+        "projectPath": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\ConectionDB.csproj",
         "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\obj\\",
+        "outputPath": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -88,8 +94,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\buisnesLayerDml.csproj": {
-                "projectPath": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\buisnesLayerDml.csproj"
+              "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\ConectionDB.csproj": {
+                "projectPath": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\ConectionDB.csproj"
               }
             }
           }
@@ -108,6 +114,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

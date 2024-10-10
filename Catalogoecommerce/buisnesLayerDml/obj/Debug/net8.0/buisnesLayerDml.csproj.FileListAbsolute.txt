@@ -1,0 +1,6 @@
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\buisnesLayerDml\obj\Debug\net8.0\buisnesLayerDml.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\buisnesLayerDml\obj\Debug\net8.0\buisnesLayerDml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\buisnesLayerDml\obj\Debug\net8.0\buisnesLayerDml.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\buisnesLayerDml\obj\Debug\net8.0\buisnesLayerDml.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\buisnesLayerDml\obj\Debug\net8.0\buisnesLayerDml.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\buisnesLayerDml\obj\Debug\net8.0\buisnesLayerDml.sourcelink.json

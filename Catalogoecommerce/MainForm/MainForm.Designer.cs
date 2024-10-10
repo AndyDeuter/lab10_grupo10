@@ -35,13 +35,15 @@
             labelDescription = new Label();
             labelPrice = new Label();
             labelStock = new Label();
-            txtName = new TextBox();
-            txtDescrption = new TextBox();
-            txtPrice = new TextBox();
-            txtStock = new TextBox();
-            dataGridView1 = new DataGridView();
+            txtNombre = new TextBox();
+            txtDescripción = new TextBox();
+            txtPrecio = new TextBox();
+            txtCantidad = new TextBox();
+            dataGridViewProductos = new DataGridView();
             btnMostrar = new Button();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            labelCategoria = new Label();
+            comboBoxCategorias = new ComboBox();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewProductos).BeginInit();
             SuspendLayout();
             // 
             // btnAgregar
@@ -52,6 +54,7 @@
             btnAgregar.TabIndex = 0;
             btnAgregar.Text = "Agregar";
             btnAgregar.UseVisualStyleBackColor = true;
+            btnAgregar.Click += btnAgregar_Click;
             // 
             // btnEditar
             // 
@@ -70,6 +73,7 @@
             btnEliminar.TabIndex = 2;
             btnEliminar.Text = "Eliminar";
             btnEliminar.UseVisualStyleBackColor = true;
+            btnEliminar.Click += btnEliminar_Click_1;
             // 
             // labelName
             // 
@@ -107,42 +111,42 @@
             labelStock.TabIndex = 6;
             labelStock.Text = "Stock";
             // 
-            // txtName
+            // txtNombre
             // 
-            txtName.Location = new Point(194, 86);
-            txtName.Name = "txtName";
-            txtName.Size = new Size(125, 27);
-            txtName.TabIndex = 7;
+            txtNombre.Location = new Point(194, 86);
+            txtNombre.Name = "txtNombre";
+            txtNombre.Size = new Size(125, 27);
+            txtNombre.TabIndex = 7;
             // 
-            // txtDescrption
+            // txtDescripción
             // 
-            txtDescrption.Location = new Point(194, 132);
-            txtDescrption.Name = "txtDescrption";
-            txtDescrption.Size = new Size(125, 27);
-            txtDescrption.TabIndex = 8;
+            txtDescripción.Location = new Point(194, 132);
+            txtDescripción.Name = "txtDescripción";
+            txtDescripción.Size = new Size(125, 27);
+            txtDescripción.TabIndex = 8;
             // 
-            // txtPrice
+            // txtPrecio
             // 
-            txtPrice.Location = new Point(194, 173);
-            txtPrice.Name = "txtPrice";
-            txtPrice.Size = new Size(125, 27);
-            txtPrice.TabIndex = 9;
+            txtPrecio.Location = new Point(194, 173);
+            txtPrecio.Name = "txtPrecio";
+            txtPrecio.Size = new Size(125, 27);
+            txtPrecio.TabIndex = 9;
             // 
-            // txtStock
+            // txtCantidad
             // 
-            txtStock.Location = new Point(194, 221);
-            txtStock.Name = "txtStock";
-            txtStock.Size = new Size(125, 27);
-            txtStock.TabIndex = 10;
+            txtCantidad.Location = new Point(194, 221);
+            txtCantidad.Name = "txtCantidad";
+            txtCantidad.Size = new Size(125, 27);
+            txtCantidad.TabIndex = 10;
             // 
-            // dataGridView1
+            // dataGridViewProductos
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(100, 270);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(388, 149);
-            dataGridView1.TabIndex = 11;
+            dataGridViewProductos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewProductos.Location = new Point(100, 323);
+            dataGridViewProductos.Name = "dataGridViewProductos";
+            dataGridViewProductos.RowHeadersWidth = 51;
+            dataGridViewProductos.Size = new Size(388, 149);
+            dataGridViewProductos.TabIndex = 11;
             // 
             // btnMostrar
             // 
@@ -153,17 +157,36 @@
             btnMostrar.Text = "Mostrar";
             btnMostrar.UseVisualStyleBackColor = true;
             // 
+            // labelCategoria
+            // 
+            labelCategoria.AutoSize = true;
+            labelCategoria.Location = new Point(100, 266);
+            labelCategoria.Name = "labelCategoria";
+            labelCategoria.Size = new Size(74, 20);
+            labelCategoria.TabIndex = 13;
+            labelCategoria.Text = "Categoria";
+            // 
+            // comboBoxCategorias
+            // 
+            comboBoxCategorias.FormattingEnabled = true;
+            comboBoxCategorias.Location = new Point(194, 263);
+            comboBoxCategorias.Name = "comboBoxCategorias";
+            comboBoxCategorias.Size = new Size(151, 28);
+            comboBoxCategorias.TabIndex = 14;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 497);
+            Controls.Add(comboBoxCategorias);
+            Controls.Add(labelCategoria);
             Controls.Add(btnMostrar);
-            Controls.Add(dataGridView1);
-            Controls.Add(txtStock);
-            Controls.Add(txtPrice);
-            Controls.Add(txtDescrption);
-            Controls.Add(txtName);
+            Controls.Add(dataGridViewProductos);
+            Controls.Add(txtCantidad);
+            Controls.Add(txtPrecio);
+            Controls.Add(txtDescripción);
+            Controls.Add(txtNombre);
             Controls.Add(labelStock);
             Controls.Add(labelPrice);
             Controls.Add(labelDescription);
@@ -173,7 +196,7 @@
             Controls.Add(btnAgregar);
             Name = "MainForm";
             Text = "MainForm";
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewProductos).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -187,11 +210,13 @@
         private Label labelDescription;
         private Label labelPrice;
         private Label labelStock;
-        private TextBox txtName;
-        private TextBox txtDescrption;
-        private TextBox txtPrice;
-        private TextBox txtStock;
-        private DataGridView dataGridView1;
+        private TextBox txtNombre;
+        private TextBox txtDescripción;
+        private TextBox txtPrecio;
+        private TextBox txtCantidad;
+        private DataGridView dataGridViewProductos;
         private Button btnMostrar;
+        private Label labelCategoria;
+        private ComboBox comboBoxCategorias;
     }
 }

@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Common;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using dataAccessLibrary;
+using buisnesLayerDml;
 
 namespace buisnesLayerDml
 {
@@ -18,7 +21,6 @@ namespace buisnesLayerDml
         public void AgregarProducto(Producto producto)
         {
             ValidarProducto(producto);
-
             productoRepository.Insertar(producto);
         }
 
@@ -28,7 +30,6 @@ namespace buisnesLayerDml
                 throw new ArgumentException("El ID del producto es inválido.");
 
             ValidarProducto(producto);
-
             productoRepository.Actualizar(producto);
         }
 
@@ -59,5 +60,5 @@ namespace buisnesLayerDml
             if (producto.CategoriaID <= 0)
                 throw new ArgumentException("La categoría es obligatoria.");
         }
+
     }
-}

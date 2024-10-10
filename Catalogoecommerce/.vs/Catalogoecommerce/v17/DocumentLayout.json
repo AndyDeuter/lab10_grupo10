@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{180A49B7-ED9C-4B42-83D6-E0655CAA1B4B}|ConectionDB\\ConectionDB.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\conectiondb\\dbconeccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{180A49B7-ED9C-4B42-83D6-E0655CAA1B4B}|ConectionDB\\ConectionDB.csproj|solutionrelative:conectiondb\\dbconeccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\dataaccesslibrary\\productorepocitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|solutionrelative:dataaccesslibrary\\productorepocitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\dataaccesslibrary\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +39,8 @@
       "RelativeMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|solutionrelative:dataaccesslibrary\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\dataaccesslibrary\\productorepocitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A9B4C2-D64E-402D-A1F6-CC47B01C2334}|dataAccessLibrary\\dataAccessLibrary.csproj|solutionrelative:dataaccesslibrary\\productorepocitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|Validation{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\Validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|Validation{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|solutionrelative:Validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,45 +58,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DBConeccion.cs",
-              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\DBConeccion.cs",
-              "RelativeDocumentMoniker": "ConectionDB\\DBConeccion.cs",
-              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\DBConeccion.cs",
-              "RelativeToolTip": "ConectionDB\\DBConeccion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MainForm\\MainForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T18:24:43.05Z",
+              "WhenOpened": "2024-10-08T01:01:04.848Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs",
+              "RelativeToolTip": "MainForm\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:30:35.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PedidoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\PedidoRepository.cs",
-              "RelativeDocumentMoniker": "dataAccessLibrary\\PedidoRepository.cs",
-              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\PedidoRepository.cs",
-              "RelativeToolTip": "dataAccessLibrary\\PedidoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAFAAAA",
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\ProductoService.cs",
+              "RelativeDocumentMoniker": "buisnesLayerDml\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\ProductoService.cs",
+              "RelativeToolTip": "buisnesLayerDml\\ProductoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T18:18:59.144Z",
+              "WhenOpened": "2024-10-10T15:54:00.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\CategoriaRepository.cs",
-              "RelativeDocumentMoniker": "dataAccessLibrary\\CategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\CategoriaRepository.cs",
-              "RelativeToolTip": "dataAccessLibrary\\CategoriaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAFAAAA",
+              "Title": "DBConeccion.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\DBConeccion.cs",
+              "RelativeDocumentMoniker": "ConectionDB\\DBConeccion.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\ConectionDB\\DBConeccion.cs",
+              "RelativeToolTip": "ConectionDB\\DBConeccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T18:16:37.845Z",
+              "WhenOpened": "2024-10-10T18:24:43.05Z",
               "EditorCaption": ""
             },
             {
@@ -111,7 +119,7 @@
               "RelativeDocumentMoniker": "dataAccessLibrary\\ProductoRepocitory.cs",
               "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\ProductoRepocitory.cs",
               "RelativeToolTip": "dataAccessLibrary\\ProductoRepocitory.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFgAAAAJAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T18:14:35.269Z",
               "EditorCaption": ""
@@ -119,6 +127,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Producto.cs",
+              "RelativeDocumentMoniker": "buisnesLayerDml\\Producto.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Producto.cs",
+              "RelativeToolTip": "buisnesLayerDml\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:58:53.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "categoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\categoriaService.cs",
+              "RelativeDocumentMoniker": "buisnesLayerDml\\categoriaService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\categoriaService.cs",
+              "RelativeToolTip": "buisnesLayerDml\\categoriaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:52:28.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PedidoService.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\PedidoService.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\PedidoService.cs",
@@ -131,45 +165,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "categoriaService.cs",
-              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\categoriaService.cs",
-              "RelativeDocumentMoniker": "buisnesLayerDml\\categoriaService.cs",
-              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\categoriaService.cs",
-              "RelativeToolTip": "buisnesLayerDml\\categoriaService.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAoAAAA",
+              "DocumentIndex": 8,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "dataAccessLibrary\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\CategoriaRepository.cs",
+              "RelativeToolTip": "dataAccessLibrary\\CategoriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T17:52:28.968Z",
+              "WhenOpened": "2024-10-10T18:16:37.845Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\ProductoService.cs",
-              "RelativeDocumentMoniker": "buisnesLayerDml\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\ProductoService.cs",
-              "RelativeToolTip": "buisnesLayerDml\\ProductoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:54:00.707Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs",
-              "RelativeToolTip": "MainForm\\MainForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "dataAccessLibrary\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\dataAccessLibrary\\PedidoRepository.cs",
+              "RelativeToolTip": "dataAccessLibrary\\PedidoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:30:35.865Z",
+              "WhenOpened": "2024-10-10T18:18:59.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Pedido.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\Pedido.cs",
@@ -177,11 +199,12 @@
               "RelativeToolTip": "buisnesLayerDml\\Pedido.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:59:55.213Z"
+              "WhenOpened": "2024-10-10T14:59:55.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Categoria.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\Categoria.cs",
@@ -189,42 +212,8 @@
               "RelativeToolTip": "buisnesLayerDml\\Categoria.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:59:38.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Producto.cs",
-              "RelativeDocumentMoniker": "buisnesLayerDml\\Producto.cs",
-              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Producto.cs",
-              "RelativeToolTip": "buisnesLayerDml\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:58:53.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Validaciones.cs",
-              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\Validaciones.cs",
-              "RelativeDocumentMoniker": "Validaciones.cs",
-              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\Validaciones.cs",
-              "RelativeToolTip": "Validaciones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:40:36.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MainForm\\MainForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T01:01:04.848Z"
+              "WhenOpened": "2024-10-10T14:59:38.737Z",
+              "EditorCaption": ""
             }
           ]
         }

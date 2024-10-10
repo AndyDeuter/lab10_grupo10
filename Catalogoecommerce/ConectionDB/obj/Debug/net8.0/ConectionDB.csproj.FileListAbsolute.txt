@@ -1,0 +1,13 @@
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\bin\Debug\net8.0\ConectionDB.deps.json
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\bin\Debug\net8.0\ConectionDB.dll
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\bin\Debug\net8.0\ConectionDB.pdb
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\obj\Debug\net8.0\ConectionDB.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\obj\Debug\net8.0\ConectionDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\obj\Debug\net8.0\ConectionDB.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\obj\Debug\net8.0\ConectionDB.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\obj\Debug\net8.0\ConectionDB.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\obj\Debug\net8.0\ConectionDB.sourcelink.json
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\obj\Debug\net8.0\ConectionDB.dll
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\obj\Debug\net8.0\refint\ConectionDB.dll
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\obj\Debug\net8.0\ConectionDB.pdb
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\ConectionDB\obj\Debug\net8.0\ref\ConectionDB.dll

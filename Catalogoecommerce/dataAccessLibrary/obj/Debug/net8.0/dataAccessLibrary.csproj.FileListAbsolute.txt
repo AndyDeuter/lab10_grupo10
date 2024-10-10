@@ -1,0 +1,6 @@
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\dataAccessLibrary\obj\Debug\net8.0\dataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\dataAccessLibrary\obj\Debug\net8.0\dataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\dataAccessLibrary\obj\Debug\net8.0\dataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\dataAccessLibrary\obj\Debug\net8.0\dataAccessLibrary.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\dataAccessLibrary\obj\Debug\net8.0\dataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\dataAccessLibrary\obj\Debug\net8.0\dataAccessLibrary.sourcelink.json

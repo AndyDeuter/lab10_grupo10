@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Catalogoecommerce",
+    "\\Catalogoecommerce\\dataAccessLibrary",
     "\\Catalogoecommerce\\MainForm"
   ],
-  "SelectedNode": "\\Catalogoecommerce\\Catalogoecommerce.sln",
+  "SelectedNode": "\\Catalogoecommerce\\dataAccessLibrary\\ProductoRepocitory.cs",
   "PreviewInSolutionExplorer": false
 }

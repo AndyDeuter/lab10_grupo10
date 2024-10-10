@@ -1,0 +1,8 @@
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\MainForm\obj\Debug\net8.0-windows\MainForm.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\MainForm\obj\Debug\net8.0-windows\MainForm.MainForm.resources
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\MainForm\obj\Debug\net8.0-windows\MainForm.csproj.GenerateResource.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\MainForm\obj\Debug\net8.0-windows\MainForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\MainForm\obj\Debug\net8.0-windows\MainForm.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\MainForm\obj\Debug\net8.0-windows\MainForm.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\MainForm\obj\Debug\net8.0-windows\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\grupo 10 lab\Catalogoecommerce\MainForm\obj\Debug\net8.0-windows\MainForm.sourcelink.json
