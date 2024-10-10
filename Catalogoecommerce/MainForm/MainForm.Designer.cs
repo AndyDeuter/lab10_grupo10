@@ -40,6 +40,7 @@
             txtPrice = new TextBox();
             txtStock = new TextBox();
             dataGridView1 = new DataGridView();
+            btnMostrar = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -143,11 +144,21 @@
             dataGridView1.Size = new Size(388, 149);
             dataGridView1.TabIndex = 11;
             // 
+            // btnMostrar
+            // 
+            btnMostrar.Location = new Point(503, 24);
+            btnMostrar.Name = "btnMostrar";
+            btnMostrar.Size = new Size(94, 29);
+            btnMostrar.TabIndex = 12;
+            btnMostrar.Text = "Mostrar";
+            btnMostrar.UseVisualStyleBackColor = true;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnMostrar);
             Controls.Add(dataGridView1);
             Controls.Add(txtStock);
             Controls.Add(txtPrice);
@@ -181,5 +192,6 @@
         private TextBox txtPrice;
         private TextBox txtStock;
         private DataGridView dataGridView1;
+        private Button btnMostrar;
     }
 }
