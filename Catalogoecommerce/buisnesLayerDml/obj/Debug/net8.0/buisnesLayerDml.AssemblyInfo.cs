@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("buisnesLayerDml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d67d8ddc99f964fadd7da61cd5f942fa85f4eb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9923bf24696640ef6e731ccbf1049f181ce3b9aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("buisnesLayerDml")]
 [assembly: System.Reflection.AssemblyTitleAttribute("buisnesLayerDml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,8 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationLayer", "Presen
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLayer", "BusinessLayer", "{FE553671-2024-4772-83B5-C1FB613DD275}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommonLayer", "CommonLayer", "{0AFE63B1-547F-452E-A26D-4DF37EFD1092}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{B2AE4C88-83E8-4669-A9B7-96DC778607A2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DbConnection", "DbConnection", "{B81583E4-B869-46C5-A29B-8AF689D0267D}"
@@ -22,7 +20,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Validation", "Validation", 
 		Validaciones.cs = Validaciones.cs
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buisnesLayerDml", "buisnesLayerDml\buisnesLayerDml.csproj", "{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "buisnesLayerDml", "buisnesLayerDml\buisnesLayerDml.csproj", "{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

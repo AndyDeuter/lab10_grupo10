@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\buisneslayerdml\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +27,8 @@
       "RelativeMoniker": "D:0:0:{BA07E690-DEA2-4C60-A427-E7A4B62D36EE}|buisnesLayerDml\\buisnesLayerDml.csproj|solutionrelative:buisneslayerdml\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|c:\\users\\anderson\\desktop\\grupo 10 lab\\catalogoecommerce\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4D41A1FB-9236-4DBC-8FE0-3F1F4EAB0AC8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|NewFolder1{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\Validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|NewFolder1{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|solutionrelative:Validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|Validation{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\Validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|Validation{ECCBD476-3CED-4EB8-9D59-01C96801BC71}|solutionrelative:Validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\ProductoService.cs",
+              "RelativeDocumentMoniker": "buisnesLayerDml\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\ProductoService.cs",
+              "RelativeToolTip": "buisnesLayerDml\\ProductoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:54:00.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs",
+              "RelativeToolTip": "MainForm\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:30:35.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Pedido.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\Pedido.cs",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Categoria.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\Categoria.cs",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "buisnesLayerDml\\Categoria.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:59:38.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T14:59:38.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\Producto.cs",
               "RelativeDocumentMoniker": "buisnesLayerDml\\Producto.cs",
@@ -68,12 +101,11 @@
               "RelativeToolTip": "buisnesLayerDml\\Producto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:58:53.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T14:58:53.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Validaciones.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\Validaciones.cs",
               "RelativeDocumentMoniker": "Validaciones.cs",
@@ -81,12 +113,11 @@
               "RelativeToolTip": "Validaciones.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:40:36.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T14:40:36.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\MainForm\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm\\MainForm.cs",

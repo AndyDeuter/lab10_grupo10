@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "buisnesLayerDml/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/buisnesLayerDml.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/buisnesLayerDml.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "buisnesLayerDml/1.0.0": {
+      "type": "project",
+      "path": "../buisnesLayerDml/buisnesLayerDml.csproj",
+      "msbuildProject": "../buisnesLayerDml/buisnesLayerDml.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "buisnesLayerDml >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Anderson\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\buisnesLayerDml.csproj": {
+              "projectPath": "C:\\Users\\Anderson\\Desktop\\grupo 10 lab\\Catalogoecommerce\\buisnesLayerDml\\buisnesLayerDml.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
